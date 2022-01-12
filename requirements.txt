@@ -1,0 +1,3 @@
+selenium===2.53.6
+webdriver-manager===3.4.2
+InstaPy
